@@ -22,4 +22,6 @@ users who enjoyed the same types of articles and find similar users to them and 
    interact with.
 
    
+For reviewers: snippet of code test running correctly
+![Screen Shot 2023-10-19 at 2 43 30 PM](https://github.com/aurora-nat/ibm_recommendation_system/assets/67852929/ae19a330-292a-4bce-88fb-46a8c722f490)
 
